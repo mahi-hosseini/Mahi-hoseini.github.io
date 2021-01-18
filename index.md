@@ -12,6 +12,7 @@ I want to be great a programmer in future and work for the big companies.
 - Last Name: Hosseini
 - Birth Date: 2000/3/18 (18 march 2000)
 - Marriage Status: Single
+- live in : Andisheh New Town
 
 ### Skills
 
@@ -20,8 +21,6 @@ I want to be great a programmer in future and work for the big companies.
 + java
 
 + ICDL
-
-+ PHOTOSHOP
 
 + C++
 
