@@ -50,3 +50,5 @@ I want to be great a programmer in future and work for the big companies.
 - instagram: <a href="https://instagram.com/_mahiii.art_?igshid=843xjbt2wstc"> _mahiii.art_ </a> </li>
 
 - Persian Resume: <a href="https://mahi-hosseini.github.io/Resume-fa/"> Resume </a>
+
+- <a href="https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_CV_CheckList_AR_3991.pdf"> Assessment </a>
