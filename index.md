@@ -14,6 +14,11 @@ I want to be great a programmer in future and work for the big companies.
 - Marriage Status: Single
 - live in : Andisheh New Town
 
+### Education
+
+- Bachelor of Engineering (B.Eng) : payam noor shahryar university
+- mathematics and physics diploma : shayeste high school
+
 ### Skills
 
 + Javascript
@@ -38,10 +43,9 @@ I want to be great a programmer in future and work for the big companies.
 
 - English
 
+
 ### Other Accounts
 
-
-- instagram: <a href="">https://instagram.com/_mahiii.art_?igshid=85009zzs0qxp</a>
-- instagram: <a href=""https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp></a>
-
+- instagram: <a href=""https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp>https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp</a></li>
+- instagram: <a href=""https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp>https://instagram.com/_mahiii.art_?igshid=85009zzs0qxp</a></li>
 - Persian Resume: <a href=""> Resume </a>
