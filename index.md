@@ -46,7 +46,7 @@ I want to be great a programmer in future and work for the big companies.
 
 ### Other Accounts
 
-- instagram: <a href="https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp">https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp</a>
-
+- instagram: <a href="https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp">_mahiii.h_</a>
+- instagram: <a href="https://instagram.com/_mahiii.art_?igshid=843xjbt2wstc"> _mahiii.art_ </a> </li>
 
 - Persian Resume: <a href="https://mahi-hosseini.github.io/Resume-fa/"> Resume </a>
