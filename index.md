@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<img src="" />
 
-You can use the [editor on GitHub](https://github.com/mahi-hosseini/Mahi-hoseini.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Mahdiye hosseini .
+I am student of Computer Engineering at Shahriar's Payam Noor university. 
+I want to be great a programmer in future and work for the big companies.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Mahdiye
+- Last Name: Hosseini
+- Birth Date: 2000/3/18 (18 march 2000)
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ Javascript
 
-- Bulleted
-- List
++ java
 
-1. Numbered
-2. List
++ ICDL
 
-**Bold** and _Italic_ and `Code` text
++ PHOTOSHOP
 
-[Link](url) and ![Image](src)
-```
++ C++
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ C
 
-### Jekyll Themes
++ Painting
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahi-hosseini/Mahi-hoseini.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ Novel writing
 
-### Support or Contact
+### Languages
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Persian
+
+- Turkish
+
+- English
+
+### Other Accounts
+
+
+- instagram: <a href=""></a>
+- instagram: <a href=""></a>
+
+- Persian Resume: <a href=""> Resume </a>
