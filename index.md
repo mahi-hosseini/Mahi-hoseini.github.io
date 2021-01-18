@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Mahdiye hosseini .
+My name is Mahdiye hosseini.
 I am student of Computer Engineering at Shahriar's Payam Noor university. 
 I want to be great a programmer in future and work for the big companies.
 
@@ -41,7 +41,7 @@ I want to be great a programmer in future and work for the big companies.
 ### Other Accounts
 
 
-- instagram: <a href=""></a>
-- instagram: <a href=""></a>
+- instagram: <a href="">https://instagram.com/_mahiii.art_?igshid=85009zzs0qxp</a>
+- instagram: <a href=""https://instagram.com/_mahiii.h_?igshid=85009zzs0qxp></a>
 
 - Persian Resume: <a href=""> Resume </a>
